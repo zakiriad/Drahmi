@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701297755633",
+    "project_id": "drahmidb",
+    "storage_bucket": "drahmidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701297755633:android:0c51dd2d6c954e316bb050",
+        "android_client_info": {
+          "package_name": "drahmi.team.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701297755633-7k9qv02b4qfr4gudrs57mfljsoi9c1dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlZlV7pp1mrLS0G_8YgWLrUana4eYpd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701297755633-7k9qv02b4qfr4gudrs57mfljsoi9c1dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
