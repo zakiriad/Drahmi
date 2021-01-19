@@ -1,2 +1,3 @@
 # Drahmi
-An app to track your money in Algerian Gab
+An app to track your money in Algerian Gabs
+
