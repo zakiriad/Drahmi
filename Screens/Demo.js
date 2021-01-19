@@ -4,7 +4,7 @@ import {View,Image ,Text, StyleSheet,Animated, TextInput,KeyboardAwareScrollView
 import { SafeAreaView } from "react-native-safe-area-context";
 import LoginButton from "../Components/LoginButton.js";
 
-class Login extends Component {
+class Demo extends Component {
   constructor(props) {
     super(props);
 
@@ -161,4 +161,4 @@ const Styles = StyleSheet.create({
     }
 
 });
-export default Login;
+export default Demo;
